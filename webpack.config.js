@@ -33,3 +33,9 @@ module.exports = {
 		}
 	}
 };
+
+
+
+// app.get("*", (req, res)=>{
+// 	res.send();
+// })
